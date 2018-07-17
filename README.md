@@ -1,6 +1,7 @@
 # HOME-AUTOMATION
 I was the part of the team named Technokrats and we participated in Techkriti'18 - Technical Fest of IIT Kanpur . Our team was the second runner up in this event .
-Some features of the product :
+
+Some key features of the product :
 
 •	System can be controlled from all over world using website and state of each bulb, components are displayed on the website.
 
